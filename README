@@ -1,0 +1,5 @@
+AVAHI HTTP BROWSER
+
+This is a very simple http browser that uses avahi.  It is
+based on the avahi bssh code.
+
